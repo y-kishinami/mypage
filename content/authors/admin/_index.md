@@ -22,8 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Machine Learning for natural language processing
-- Computational Linguistics
 - Dialogue systems
+- Personalized response generation
 
 education:
   courses:

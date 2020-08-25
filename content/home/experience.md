@@ -18,8 +18,8 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = ""
-  company = "東北大学 工学部 電気情報物理工学科"
+  title = "東北大学 工学部 電気情報物理工学科"
+  company = ""
   company_url = ""
   #location = "宮城県仙台市"
   date_start = "2017-04-01"
@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   #"""
 
 [[experience]]
-  title = ""
-  company = "福島県立橘高等学校"
+  title = "福島県立橘高等学校"
+  company = ""
   #location = "福島県福島市"
   date_start = "2014-04-01"
   date_end = "2017-03-31"

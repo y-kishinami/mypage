@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   #certificate_url = "https://www.coursera.org"
   date_start = "2020-04-01"
   date_end = ""
-  description = ""
+  description = "より人間らしい対話を目指しシステムを構築し、SLUD2020への出場を目指します。"
 
 #[[item]]
 #  organization = "edX"
