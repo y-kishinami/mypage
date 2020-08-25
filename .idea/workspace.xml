@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0ec41c98-aa58-40c5-b161-805d0004385b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/menus.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,7 @@
       </set>
     </option>
   </component>
+  <component name="JupyterTrust" id="9e1227f3-cd91-4f30-922d-c66d8e469711" />
   <component name="ProjectId" id="1ga1DjddlVuCCCbtUFDZ6jdkwsp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,7 +43,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598337771357</updated>
-      <workItem from="1598337773822" duration="2094000" />
+      <workItem from="1598337773822" duration="3516000" />
+      <workItem from="1598346094436" duration="171000" />
     </task>
     <servers />
   </component>
