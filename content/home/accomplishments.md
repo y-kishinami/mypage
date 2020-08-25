@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 #title = "Accomplish&shy;ments"
-title = "Projecct"
+title = "Project"
 subtitle = ""
 
 # Date format

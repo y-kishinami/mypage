@@ -46,6 +46,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/kissy_46/
 - icon: github
   icon_pack: fab
   link: https://github.com/y-kishinami
@@ -65,4 +68,3 @@ user_groups:
 - Visitors
 ---
 
-this is my homepage
