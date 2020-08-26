@@ -16,6 +16,8 @@ role: 4th year undergraduate student
 organizations:
 - name: Tohoku University
   url: "https://www.tohoku.ac.jp/japanese/"
+- name: Tohoku NLP Lab
+  url: "https://www.nlp.ecei.tohoku.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -68,3 +70,4 @@ user_groups:
 - Visitors
 ---
 
+I'm a undergraduate student at [Tohoku University](https://www.tohoku.ac.jp/japanese/) and a member of [Tohoku NLP Laboratory](https://www.nlp.ecei.tohoku.ac.jp/).
