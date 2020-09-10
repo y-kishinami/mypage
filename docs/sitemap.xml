@@ -3,7 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2020-09-10T20:16:07+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
+    <lastmod>2020-09-10T20:16:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-10T20:16:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-10T20:16:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-09-10T20:16:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E4%B9%BE%E5%81%A5%E5%A4%AA%E9%83%8E/</loc>
+    <lastmod>2020-09-10T20:16:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E4%BD%90%E8%97%A4%E5%BF%97%E8%B2%B4/</loc>
+    <lastmod>2020-09-10T20:16:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E5%B2%B8%E6%B3%A2%E6%B4%8B%E4%BB%8B/</loc>
+    <lastmod>2020-09-10T20:16:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/yans2020/</loc>
+    <lastmod>2020-09-10T20:16:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E8%B5%A4%E9%96%93%E6%80%9C%E5%A5%88/</loc>
+    <lastmod>2020-09-10T20:16:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E9%88%B4%E6%9C%A8%E6%BD%A4/</loc>
+    <lastmod>2020-09-10T20:16:07+09:00</lastmod>
   </url>
   
   <url>
@@ -15,23 +66,11 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
   </url>
   
   <url>
