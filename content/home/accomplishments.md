@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "人工知能学会 第90回 言語・音声理解と対話処理研究会(SLUD2020)"
+  organization = "ILYS"
   #organization_url = "https://www.coursera.org"
-  title = "対話システムライブコンペティション3 オープントラック 優秀賞(第2位)"
+  title = "人工知能学会 第90回 言語・音声理解と対話処理研究会(SLUD2020) 　　　　　　対話システムライブコンペティション3 オープントラック 優秀賞(第2位)"
   url = ""
   certificate_url = "https://dialog-system-live-competition.github.io/dslc3/result.html"
   date_start = "2020-12-01"
