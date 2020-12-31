@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/author/%E5%B2%B8%E6%B3%A2%E6%B4%8B%E4%BB%8B/</loc>
+    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E8%97%A4%E5%8E%9F%E5%90%8F%E7%94%9F/</loc>
+    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/0/</loc>
     <lastmod>2020-11-27T14:10:58+09:00</lastmod>
   </url>
@@ -63,17 +73,12 @@
   </url>
   
   <url>
-    <loc>/author/%E5%B2%B8%E6%B3%A2%E6%B4%8B%E4%BB%8B/</loc>
-    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/%E8%97%A4%E5%8E%9F%E5%90%8F%E7%94%9F/</loc>
-    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/%E9%88%B4%E6%9C%A8%E6%BD%A4/</loc>
+    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E7%AC%AC%E4%B8%80%E8%91%97%E8%80%85%E3%81%A8%E7%AC%AC%E4%BA%8C%E8%91%97%E8%80%85%E3%81%AE%E8%B2%A2%E7%8C%AE%E5%BA%A6%E3%81%AF%E7%AD%89%E3%81%97%E3%81%84/</loc>
     <lastmod>2020-11-27T14:10:58+09:00</lastmod>
   </url>
   

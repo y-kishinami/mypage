@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>（* 第一著者と第二著者の貢献度は等しい．） | Yosuke Kishinami</title>
+    <link>/author/%E7%AC%AC%E4%B8%80%E8%91%97%E8%80%85%E3%81%A8%E7%AC%AC%E4%BA%8C%E8%91%97%E8%80%85%E3%81%AE%E8%B2%A2%E7%8C%AE%E5%BA%A6%E3%81%AF%E7%AD%89%E3%81%97%E3%81%84/</link>
+      <atom:link href="/author/%E7%AC%AC%E4%B8%80%E8%91%97%E8%80%85%E3%81%A8%E7%AC%AC%E4%BA%8C%E8%91%97%E8%80%85%E3%81%AE%E8%B2%A2%E7%8C%AE%E5%BA%A6%E3%81%AF%E7%AD%89%E3%81%97%E3%81%84/index.xml" rel="self" type="application/rss+xml" />
+    <description>（* 第一著者と第二著者の貢献度は等しい．）</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Nov 2020 14:10:58 +0900</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>（* 第一著者と第二著者の貢献度は等しい．）</title>
+      <link>/author/%E7%AC%AC%E4%B8%80%E8%91%97%E8%80%85%E3%81%A8%E7%AC%AC%E4%BA%8C%E8%91%97%E8%80%85%E3%81%AE%E8%B2%A2%E7%8C%AE%E5%BA%A6%E3%81%AF%E7%AD%89%E3%81%97%E3%81%84/</link>
+    </image>
+    
+    <item>
+      <title>ILYS aoba bot: 大規模ニューラル応答生成モデルとルールベースを統合した雑談対話システム</title>
+      <link>/publication/slud2020/</link>
+      <pubDate>Fri, 27 Nov 2020 14:10:58 +0900</pubDate>
+      <guid>/publication/slud2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

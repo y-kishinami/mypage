@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 #title = "Accomplish&shy;ments"
-title = "Project"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -20,14 +20,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
+  organization = "人工知能学会 第90回 言語・音声理解と対話処理研究会(SLUD2020)"
   #organization_url = "https://www.coursera.org"
-  title = "対話プロジェクト"
+  title = "対話システムライブコンペティション3 オープントラック 優秀賞(第2位)"
   url = ""
-  #certificate_url = "https://www.coursera.org"
-  date_start = "2020-04-01"
+  certificate_url = "https://dialog-system-live-competition.github.io/dslc3/result.html"
+  date_start = "2020-12-01"
   date_end = ""
-  description = "より人間らしい対話を目指しシステムを構築し、SLUD2020への出場を目指します。"
+  description = ""
+  # より人間らしい対話を目指しシステムを構築し、SLUD2020への出場を目指します。
 
 #[[item]]
 #  organization = "edX"
