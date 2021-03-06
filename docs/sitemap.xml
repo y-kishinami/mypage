@@ -3,22 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/author/%E5%B2%B8%E6%B3%A2%E6%B4%8B%E4%BB%8B/</loc>
-    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/%E8%97%A4%E5%8E%9F%E5%90%8F%E7%94%9F/</loc>
-    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication-type/0/</loc>
-    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
+    <lastmod>2021-03-18T16:35:16+09:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2021-03-18T16:35:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-03-18T16:35:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-03-18T16:35:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-03-18T16:35:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E4%B9%BE%E5%81%A5%E5%A4%AA%E9%83%8E/</loc>
+    <lastmod>2021-03-18T16:35:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E4%BD%90%E8%97%A4%E5%BF%97%E8%B2%B4/</loc>
+    <lastmod>2021-03-18T16:35:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nlp2021/</loc>
+    <lastmod>2021-03-18T16:35:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E5%B2%B8%E6%B3%A2%E6%B4%8B%E4%BB%8B/</loc>
+    <lastmod>2021-03-18T16:35:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E8%B5%A4%E9%96%93%E6%80%9C%E5%A5%88/</loc>
+    <lastmod>2021-03-18T16:35:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E9%88%B4%E6%9C%A8%E6%BD%A4/</loc>
+    <lastmod>2021-03-18T16:35:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E8%97%A4%E5%8E%9F%E5%90%8F%E7%94%9F/</loc>
     <lastmod>2020-11-27T14:10:58+09:00</lastmod>
   </url>
   
@@ -28,32 +68,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/%E4%B9%BE%E5%81%A5%E5%A4%AA%E9%83%8E/</loc>
-    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/%E4%BB%8A%E9%87%8E%E9%A2%AF%E4%BA%BA/</loc>
-    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/%E4%BD%90%E8%97%A4%E5%BF%97%E8%B2%B4/</loc>
     <lastmod>2020-11-27T14:10:58+09:00</lastmod>
   </url>
   
@@ -73,22 +88,12 @@
   </url>
   
   <url>
-    <loc>/author/%E9%88%B4%E6%9C%A8%E6%BD%A4/</loc>
-    <lastmod>2020-11-27T14:10:58+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/%E7%AC%AC%E4%B8%80%E8%91%97%E8%80%85%E3%81%A8%E7%AC%AC%E4%BA%8C%E8%91%97%E8%80%85%E3%81%AE%E8%B2%A2%E7%8C%AE%E5%BA%A6%E3%81%AF%E7%AD%89%E3%81%97%E3%81%84/</loc>
     <lastmod>2020-11-27T14:10:58+09:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/yans2020/</loc>
-    <lastmod>2020-09-10T20:16:07+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/%E8%B5%A4%E9%96%93%E6%80%9C%E5%A5%88/</loc>
     <lastmod>2020-09-10T20:16:07+09:00</lastmod>
   </url>
   

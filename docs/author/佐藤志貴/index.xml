@@ -5,12 +5,20 @@
     <link>/author/%E4%BD%90%E8%97%A4%E5%BF%97%E8%B2%B4/</link>
       <atom:link href="/author/%E4%BD%90%E8%97%A4%E5%BF%97%E8%B2%B4/index.xml" rel="self" type="application/rss+xml" />
     <description>佐藤志貴</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Nov 2020 14:10:58 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Mar 2021 16:35:16 +0900</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>佐藤志貴</title>
       <link>/author/%E4%BD%90%E8%97%A4%E5%BF%97%E8%B2%B4/</link>
     </image>
+    
+    <item>
+      <title>対話システムの先読み能力を分析可能なタスクの検討</title>
+      <link>/publication/nlp2021/</link>
+      <pubDate>Thu, 18 Mar 2021 16:35:16 +0900</pubDate>
+      <guid>/publication/nlp2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ILYS aoba bot: 大規模ニューラル応答生成モデルとルールベースを統合した雑談対話システム</title>
