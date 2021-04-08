@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: 4th year undergraduate student
+role: Master's student at Tohoku University
 
 # Organizations/Affiliations
 organizations:
-- name: Tohoku University
-  url: "https://www.tohoku.ac.jp/japanese/"
+- name: Graduate School of Information Sciences, Tohoku University
+  url: "https://www.is.tohoku.ac.jp/"
 - name: Tohoku NLP Lab
   url: "https://www.nlp.ecei.tohoku.ac.jp/"
 
@@ -26,12 +26,13 @@ interests:
 - Machine Learning for natural language processing
 - Dialogue systems
 - Personalized response generation
+- Vision and Language
 
 education:
   courses:
   - course: Bechelor of Engineering
     institution: Tohoku University
-    year: 2017-
+    year: 2021
 
 
 # Social/Academic Networking
@@ -42,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/yosuke150729
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/KishinamiYosuke
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -70,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a undergraduate student at [Tohoku University](https://www.tohoku.ac.jp/japanese/) and a member of [Tohoku NLP Laboratory](https://www.nlp.ecei.tohoku.ac.jp/).
+I'm a master's student at [Tohoku University](https://www.tohoku.ac.jp/japanese/) and a member of [Tohoku NLP Laboratory](https://www.nlp.ecei.tohoku.ac.jp/).

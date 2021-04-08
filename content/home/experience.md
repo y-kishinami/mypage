@@ -18,12 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "東北大学大学院 情報科学研究科 システム情報科学専攻"
+  company = ""
+  company_url = ""
+  #location = "宮城県仙台市"
+  date_start = "2021-04-01"
+  date_end = ""
+  #description = """
+  #Responsibilities include:
+
+[[experience]]
   title = "東北大学 工学部 電気情報物理工学科"
   company = ""
   company_url = ""
   #location = "宮城県仙台市"
   date_start = "2017-04-01"
-  date_end = ""
+  date_end = "2021-03-31"
   #description = """
   #Responsibilities include:
   
