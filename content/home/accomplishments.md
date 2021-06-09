@@ -30,15 +30,15 @@ date_format = "Jan 2006"
   description = ""
   # より人間らしい対話を目指しシステムを構築し、SLUD2020への出場を目指します。
 
-#[[item]]
-#  organization = "edX"
-#  organization_url = "https://www.edx.org"
-#  title = "Blockchain Fundamentals"
-#  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-#  certificate_url = "https://www.edx.org"
-#  date_start = "2018-03-01"
-#  date_end = ""
-#  description = "Formulated informed blockchain models, hypotheses, and use cases."
+[[item]]
+  organization = "IPSJ-TOHOKU"
+  #organization_url = "https://www.edx.org"
+  title = "情報処理学会東北支部 学生奨励賞"
+  url = ""
+  certificate_url = "https://tohoku.ipsj.or.jp/doku.php?id=prize"
+  date_start = "2021-06-09"
+  date_end = ""
+  description = ""
   
 #[[item]]
 #  organization = "DataCamp"

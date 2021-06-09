@@ -27,6 +27,7 @@ interests:
 - Dialogue systems
 - Personalized response generation
 - Vision and Language
+- Text-to-Speech
 
 education:
   courses:
